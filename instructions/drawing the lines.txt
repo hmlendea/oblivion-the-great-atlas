@@ -1,0 +1,2 @@
+borders: circlefuzzy 9 with 0,27
+roads: stroke path -> stroke line with 1.1px solid color (x4 times)
