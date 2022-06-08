@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/oblivion-the-great-atlas)](https://github.com/hmlendea/oblivion-the-great-atlas/releases/latest)
 
-# The Great Atlas
+# About
 
 Adds a book to the game, that contains various maps depicting things such as neighbouring regions or Ayleid ruin locations.
 
